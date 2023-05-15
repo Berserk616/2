@@ -1,0 +1,169 @@
+
+
+.background{
+    width: 1920px;
+    height: 3538px;
+    background: #f1ffeb;
+    
+}
+.rectangular_up{
+    position: absolute;
+    width: 1920px;
+    height: 126px;
+    left:0px;
+    top: 0px;
+
+    background: #79C16E;
+}
+.forest_up{
+    position: absolute; 
+    width: 80px;
+    height: 68px;
+    left: 44px;
+    top: 20px;
+}
+.connection_up{
+    position: absolute;
+    width: 351px;
+    height: 77px;
+    left: 1468px;
+    top: 23px;
+}
+.connection_up_text{
+    position: absolute;
+    left: 137px;
+    top: 38px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    }
+.text_top{
+    position: absolute;
+    width: 714px;
+    height: 154px;
+    left: 613px;
+    top: 171px;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    font-weight:700;
+    color: #104826;
+}
+
+.rectangular_body1,.rectangular_body2,.rectangular_body3{
+    position: absolute;
+    width: 1370px;
+    height: 950px;
+    left: 275px;
+}
+
+.rectangular_body1{
+    top: 372px;
+    background: #E0F2B9;
+}
+.rectangular_body2{
+    top: 1341px;
+    background: #CFF2B9;
+    ;
+}
+.rectangular_body3{
+    top: 2310px;
+    background: #BDF2B9;
+    ;
+}
+
+.text_elk,.text_elk_opinion,.text_park,.text_park_opinion,.text_cemetery,.text_cemetery_opinion{
+    position: absolute;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
+.text_elk{
+    width: 642px;
+    height: 361px;
+    left: 942px;
+    top: 452px;
+}
+.text_elk_opinion{
+    width: 1245px;
+    height: 147px;
+    left: 343px;
+    top: 990px;
+}
+.text_park{
+    width: 642px;
+    height: 465px;
+    left: 343px;
+    top: 1456px;
+}
+.text_park_opinion{
+    width: 1211px;
+    height: 177px;
+    left: 343px;
+    top: 1984px;
+}
+.text_cemetery{
+    width: 642px;
+    height: 490px;
+    left: 942px;
+    top: 2401px;
+}
+.text_cemetery_opinion{
+    width: 1239px;
+    height: 172px;
+    left: 343px;
+    top: 2935px;
+}
+
+.text_elk_calculation,.text_park_calculation,.text_cemetery_calculation{
+    position: absolute;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    left: 892px;
+    font-weight:700;
+    color: #104826;
+}
+.text_elk_calculation{
+    top: 1110px;
+}
+.text_park_calculation{
+    top: 2120px;
+}
+.text_cemetery_calculation{
+    top: 3075px;
+}
+.map_elk{
+    position: absolute;
+    left: 345px;
+    top: 452px;
+}
+.map_park{
+    position: absolute;
+    left: 1049px;
+    top: 1425px;
+}
+.map_cemetery{
+    position: absolute;
+    left: 345px;
+    top: 2390px;
+}
+
+.img_1,.img_2,.img_3{
+    box-sizing: border-box;
+    position: absolute;
+    height: 278.21px;
+    top: 3260px;
+}
+.img_1{
+    width: 487px;
+    left: 251px;
+}
+.img_2{
+    width: 480px;
+    left: 738px;
+}
+.img_3{
+    width: 473px;
+    left: 1218px;
+}
